@@ -2,6 +2,13 @@
 
 A custom sound library by Ryan Peters used for Sound Segmentation, Voicing Detection, and Vowel Extraction from speech.
 
+## Dependencies
+--cv2
+--signal
+--numpy 
+--matplotlib
+--tqdm
+
 ## Sound Files
 Name of soundfiles in /soundfiles indicates the transcribed speech in it (non-IPA)
 
